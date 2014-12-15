@@ -1,0 +1,14 @@
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\DomainService.dll.config
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\DomainService.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\DomainService.pdb
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\EntityFramework.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\EntityFramework.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\obj\Debug\DomainService.csprojResolveAssemblyReference.cache
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\obj\Debug\DomainService.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\obj\Debug\DomainService.pdb
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\Data.dll
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\GenericRepository.dll
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\Data.pdb
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\DomainService\bin\Debug\GenericRepository.pdb

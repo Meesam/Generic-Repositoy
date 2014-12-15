@@ -1,0 +1,10 @@
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\Data.dll.config
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\Data.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\Data.pdb
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\EntityFramework.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\EntityFramework.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\obj\Debug\Data.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\obj\Debug\Data.pdb
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,47 @@
+﻿@model MVCGenericRepositoryPettern.Models.UserViewModel
+
+@{
+    ViewBag.Title = "AddNew";
+}
+
+<h2>AddNew</h2>
+
+
+@using (Html.BeginForm("SaveUsers","UsersView",FormMethod.Post)) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>UserViewModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @Html.TextBoxFor(x => x.Users.FirstName, new {@class = "form-control"})
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                @Html.TextBoxFor(x => x.Users.Gender, new {@class = "form-control"})
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                @Html.TextBoxFor(x => x.Users.EmailId, new {@class = "form-control"})
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                @Html.TextBoxFor(x => x.Users.Password, new {@class = "form-control"})
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "ShowAllusers")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

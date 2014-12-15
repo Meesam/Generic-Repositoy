@@ -1,0 +1,10 @@
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\GenericRepository.dll.config
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\GenericRepository.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\GenericRepository.pdb
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\EntityFramework.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\EntityFramework.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\obj\Debug\GenericRepository.dll
+c:\users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\obj\Debug\GenericRepository.pdb
+C:\Users\meesam\documents\visual studio 2013\Projects\MVCGenericRepositoryPettern\GenericRepository\obj\Debug\GenericRepository.csprojResolveAssemblyReference.cache
